@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d8575fbab4caf151571f0879",
+  "owner": "yjjocltc",
+  "repo": "page-84c49b87d8c5500e611655c7",
+  "title": "平民机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "84c49b87d8c5500e611655c7",
+      "a": "平民机场",
+      "b": "2027官方最新地址导航",
+      "entity": "平民机场",
+      "brand": "平民机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "55e55ce4390f210ab9b9cb729f892954c3d5d331ec2996f0df28c4a43606a853",
+      "content": {
+        "primary_entity": "平民机场",
+        "keyword1": "平民机场",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，月付价格分别为 ¥15、¥35 和 ¥85，年付优惠价格为 ¥150/年、¥350/年 与 ¥850/年。流量覆盖每月 100GB 到 1000GB，设备同时在线数从 3 台到 20 台，旗舰版支持 IPLC 专线游戏加速优化与原生流媒体解锁，团队版提供 VIP 专属高带宽节点与企业定制路由。客户端覆盖常见桌面与移动平台，按设备类型和操作系统选择适配的配置方式即可开始使用。",
+          "AI_HERO_SUBTITLE": "平民机场多设备订阅与线路选择",
+          "AI_HERO_INTRO": "平民机场提供多档海外加速订阅，按流量和在线设备数区分，适合个人用户、流媒体观众与小型团队。订阅周期灵活，月付或年付均可，节点类型随套餐变化，入门版使用普通线路，旗舰版及以上支持 IPLC 专线和高带宽节点。",
+          "AI_VISUAL_TITLE": "平民机场订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队需求",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案降低月度使用成本",
+          "AI_FEATURES_TITLE": "选择适合的订阅方式",
+          "AI_FEATURES_INTRO": "按设备数量、月流量和线路类型匹配套餐，再根据操作系统安装对应客户端。",
+          "AI_FEATURE_TITLE_1": "套餐选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TEXT_2": "根据使用设备数选套餐，Windows、macOS、Android 和 iOS 各有对应的客户端配置方式。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更低；基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统使用对应的客户端应用，导入订阅链接后即可连接节点。桌面端与移动端的界面和连接步骤略有差异，初次配置请参考客户端内的引导说明。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度浏览，旗舰版适合流媒体与游戏，团队版面向多设备和小型办公场景。可按在线设备数和月流量需求对照选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再选择套餐，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统和客户端版本是否满足所选套餐的配置条件，如设备在线数限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅信息，选择节点后连接；遇到线路问题可切换其他节点重试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定平民机场套餐，导入订阅后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在套餐周期内升级，补差价即可切换至更高版本，流量和设备数按新套餐生效。",
+          "AI_FAQ_QUESTION_2": "一台设备可以多客户端登录吗？",
+          "AI_FAQ_ANSWER_2": "同一时间在线设备数受套餐限制，建议按实际设备数量选择对应版本，避免超限。",
+          "AI_FAQ_QUESTION_3": "年付套餐如何计算费用？",
+          "AI_FAQ_ANSWER_3": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算。",
+          "AI_FAQ_QUESTION_4": "流量用完后可以继续使用吗？",
+          "AI_FAQ_ANSWER_4": "套餐内流量用尽后，可升级套餐或购买流量包继续使用，具体以订阅页面说明为准。",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_5": "支持主流订阅客户端，不同系统适配的客户端有所差异，请按设备选择并参考配置文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "siyuetiyu.com",
+    "host": "siyuetiyu.com"
+  },
+  "file_hashes": {
+    "index.html": "13af570e7b9e8bac380006fd4b59ab0323ed1bebbc84d6cc8d27281547912f6e",
+    "sitemap.xml": "a1349cae2a92b4f1590e50e715e011c1daf36efa863a3005cabcaec191d7a6e7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "807c7366ba0dc4d8a9fa9e99f8e48ee72c54ca551d47b1dc3e9a67b0b8f2041a",
+    "robots.txt": "b4655771035aa470f31bba1c58da4e2cc2551bc66e9bc56c2a6024963038368c",
+    "b4fa553dbd8ef3240e89b5c1961cb54e.txt": "1d786504502ad4eb703eacf02370be4bc55562e41caa764621933d40c3384650"
+  },
+  "revision": "e13c2366b72e787bbdd87cb8e84310592f1608c82ef332d9698b7bacfef82f06"
+}
